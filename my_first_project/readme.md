@@ -7,4 +7,4 @@ If you want to test it:
 4. You need to install Tkinter: pip install tk.
 5. And finally you need to install the rest of the used libraries by clicking on: Install packges.
 If you don't want to do all these things, you can see what the application looks like in the picture below.
-< img src="https://github.com/AStoychev/my_python_projects/blob/main/my_first_project/icon/Player.jpg >
+< img src="https://raw.githubusercontent.com/AStoychev/my_python_projects/main/my_first_project/icon/Player.jpg" >

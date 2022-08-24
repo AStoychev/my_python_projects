@@ -10,4 +10,4 @@ Group D: 37000
 
 Instruction for trying out the code:
 1. First you have to install pandas module. In terminal, you have to running: pip install pandas;
-2. In df you need to put the path to the file with the extension.csv. For example: data.csv
+2. In df you need to put the path to the file with the extension.csv(Comma delimited). For example: data.csv
